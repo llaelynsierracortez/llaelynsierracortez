@@ -3,7 +3,7 @@
 - 🌱 I’m currently hoping to improve my Python skills
 - 📫 How to reach me: Linkedin @www.linkedin.com/in/llaelyn-sierra-cortez-b32873212
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I love drinking/making coffee and hang out with loved ones!
+- ⚡ Fun fact: I love drinking/making coffee and chillin with my dog
 
 <!---
 llaelynsierracortez/llaelynsierracortez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
